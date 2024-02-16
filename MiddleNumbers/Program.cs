@@ -17,8 +17,9 @@
             }
             else
             {
-
+                //Tedo nqma prava
                 Console.WriteLine(numbers[middle - 1]);
+                Console.WriteLine(numbers[middle]);
                 Console.WriteLine(numbers[middle]);
                 Console.WriteLine(numbers[middle + 1]);
             }

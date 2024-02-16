@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Dictovka")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+262c3c85f88d985aa5d65a6ddee274696ee70823")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4cfa2dd49d82471235059256435f659abc22817e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Dictovka")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Dictovka")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
