@@ -12,3 +12,4 @@ C:\Users\Admin\source\repos\11 class\Dictovka\Dictovka\obj\Debug\net8.0\refint\D
 C:\Users\Admin\source\repos\11 class\Dictovka\Dictovka\obj\Debug\net8.0\Dictovka.pdb
 C:\Users\Admin\source\repos\11 class\Dictovka\Dictovka\obj\Debug\net8.0\Dictovka.genruntimeconfig.cache
 C:\Users\Admin\source\repos\11 class\Dictovka\Dictovka\obj\Debug\net8.0\ref\Dictovka.dll
+C:\Users\Admin\source\repos\11 class\Dictovka\Dictovka\obj\Debug\net8.0\Dictovka.sourcelink.json

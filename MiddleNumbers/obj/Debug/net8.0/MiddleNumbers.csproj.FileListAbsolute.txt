@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\11 class\Dictovka\MiddleNumbers\bin\Debug\net8.0\MiddleNumbers.exe
+C:\Users\Admin\source\repos\11 class\Dictovka\MiddleNumbers\bin\Debug\net8.0\MiddleNumbers.deps.json
+C:\Users\Admin\source\repos\11 class\Dictovka\MiddleNumbers\bin\Debug\net8.0\MiddleNumbers.runtimeconfig.json
+C:\Users\Admin\source\repos\11 class\Dictovka\MiddleNumbers\bin\Debug\net8.0\MiddleNumbers.dll
+C:\Users\Admin\source\repos\11 class\Dictovka\MiddleNumbers\bin\Debug\net8.0\MiddleNumbers.pdb
+C:\Users\Admin\source\repos\11 class\Dictovka\MiddleNumbers\obj\Debug\net8.0\MiddleNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\11 class\Dictovka\MiddleNumbers\obj\Debug\net8.0\MiddleNumbers.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\11 class\Dictovka\MiddleNumbers\obj\Debug\net8.0\MiddleNumbers.AssemblyInfo.cs
+C:\Users\Admin\source\repos\11 class\Dictovka\MiddleNumbers\obj\Debug\net8.0\MiddleNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\11 class\Dictovka\MiddleNumbers\obj\Debug\net8.0\MiddleNumbers.sourcelink.json
+C:\Users\Admin\source\repos\11 class\Dictovka\MiddleNumbers\obj\Debug\net8.0\MiddleNumbers.dll
+C:\Users\Admin\source\repos\11 class\Dictovka\MiddleNumbers\obj\Debug\net8.0\refint\MiddleNumbers.dll
+C:\Users\Admin\source\repos\11 class\Dictovka\MiddleNumbers\obj\Debug\net8.0\MiddleNumbers.pdb
+C:\Users\Admin\source\repos\11 class\Dictovka\MiddleNumbers\obj\Debug\net8.0\MiddleNumbers.genruntimeconfig.cache
+C:\Users\Admin\source\repos\11 class\Dictovka\MiddleNumbers\obj\Debug\net8.0\ref\MiddleNumbers.dll
