@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\11 class\Dictovka\Dictovka\bin\Debug\net8.0\Dictovka.exe
+C:\Users\Admin\source\repos\11 class\Dictovka\Dictovka\bin\Debug\net8.0\Dictovka.deps.json
+C:\Users\Admin\source\repos\11 class\Dictovka\Dictovka\bin\Debug\net8.0\Dictovka.runtimeconfig.json
+C:\Users\Admin\source\repos\11 class\Dictovka\Dictovka\bin\Debug\net8.0\Dictovka.dll
+C:\Users\Admin\source\repos\11 class\Dictovka\Dictovka\bin\Debug\net8.0\Dictovka.pdb
+C:\Users\Admin\source\repos\11 class\Dictovka\Dictovka\obj\Debug\net8.0\Dictovka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\11 class\Dictovka\Dictovka\obj\Debug\net8.0\Dictovka.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\11 class\Dictovka\Dictovka\obj\Debug\net8.0\Dictovka.AssemblyInfo.cs
+C:\Users\Admin\source\repos\11 class\Dictovka\Dictovka\obj\Debug\net8.0\Dictovka.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\11 class\Dictovka\Dictovka\obj\Debug\net8.0\Dictovka.dll
+C:\Users\Admin\source\repos\11 class\Dictovka\Dictovka\obj\Debug\net8.0\refint\Dictovka.dll
+C:\Users\Admin\source\repos\11 class\Dictovka\Dictovka\obj\Debug\net8.0\Dictovka.pdb
+C:\Users\Admin\source\repos\11 class\Dictovka\Dictovka\obj\Debug\net8.0\Dictovka.genruntimeconfig.cache
+C:\Users\Admin\source\repos\11 class\Dictovka\Dictovka\obj\Debug\net8.0\ref\Dictovka.dll
